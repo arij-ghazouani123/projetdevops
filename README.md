@@ -1,5 +1,3 @@
 # projetdevops
 
-pipeline Jenkins qui envoie un e-mail 
-
-pepline
+pipeline Jenkins qui envoie un e-mail a arij.ghazouani@esprit.com
